@@ -1,0 +1,5 @@
+{
+  "name": "WorkMind Assistant",
+  "description": "A personal work assistant that organizes projects, tracks progress, and answers questions about your files.",
+  "requestFramePermissions": []
+}
