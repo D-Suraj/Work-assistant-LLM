@@ -16,8 +16,8 @@ A private, fully local AI assistant that indexes your codebases and documents so
 |------|---------|---------|
 | Node.js | 18+ | https://nodejs.org |
 | Ollama | latest | https://ollama.com |
+Install Ollama from here https://github.com/ollama/ollama/releases/download/v0.17.7/OllamaSetup.exe if latest version is not stable
 
-Install Ollama from here https://github.com/ollama/ollama/releases/download/v0.17.7/OllamaSetup.exe if latest ver is not stable
 ---
 
 ## Setup (3 steps)
