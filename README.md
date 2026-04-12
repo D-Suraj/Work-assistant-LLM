@@ -1,4 +1,4 @@
-# WorkMind — Local Personal Knowledge Base
+# Personal Assistant — Local Personal Knowledge Base
 
 A private, fully local AI assistant that indexes your codebases and documents so you can ask questions about them in plain English. **No cloud, no API keys, 100% runs on your machine.**
 
